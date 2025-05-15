@@ -1,30 +1,100 @@
-# Emohealth landing page
+# 💥 EmoHealth – Emotional Support Web App 💥
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+**Your AI-powered emotional health buddy** 🧠💖  
+Helping chronic disease warriors take charge of their emotional well-being, one mood at a time.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/adityajaiswal005s-projects/v0-emohealth-landing-page)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/TdWDoZMvDil)
+---
 
-## Overview
+## 🚨 Why EmoHealth?
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+Chronic disease isn’t just physical — it hits the heart and mind too.  
+**EmoHealth** tracks your **moods, health logs, and triggers**, and delivers **personalized CBT strategies** using the power of AI.  
+No more silent suffering. Just clarity, coping, and confidence.
 
-## Deployment
+---
 
-Your project is live at:
+## 🔥 Core Features
 
-**[https://vercel.com/adityajaiswal005s-projects/v0-emohealth-landing-page](https://vercel.com/adityajaiswal005s-projects/v0-emohealth-landing-page)**
+✅ **Multimodal Mood Tracking**  
+→ Text entries, facial emotion recognition & voice tone analysis.
 
-## Build your app
+✅ **Smart Health Logs**  
+→ Track symptoms, vitals, and meds — all in one place.
 
-Continue building your app on:
+✅ **AI Emotional Insight Engine**  
+→ Spot patterns, triggers, and emotional spikes like never before.
 
-**[https://v0.dev/chat/projects/TdWDoZMvDil](https://v0.dev/chat/projects/TdWDoZMvDil)**
+✅ **CBT Coping Toolkit**  
+→ Instant access to guided exercises & daily mental health boosts.
 
-## How It Works
+✅ **Clean UI, Calming UX**  
+→ Pastel tones, minimal stress. Works like therapy. Looks like peace.
 
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+---
+
+## ⚙️ How to Get Started
+
+### 1. Clone the Repo
+
+```bash
+git clone https://github.com/adityajaiswal005/Emotional-support-web.git
+cd Emotional-support-web
+```
+
+### 2. Install Dependencies
+
+```bash
+npm install
+# or
+yarn install
+```
+
+### 3. Start the Dev Server
+
+```bash
+npm start
+# or
+yarn start
+```
+
+🟢 Visit `http://localhost:3000` and you're live!
+
+---
+
+## 🧠 Folder Breakdown
+
+| Folder        | What's Inside 💡                     |
+|---------------|--------------------------------------|
+| `public/`     | App icons, images, static assets     |
+| `src/`        | All the magic (code, UI, logic)      |
+| `components/` | Reusable building blocks of the app  |
+| `pages/`      | Route-based components               |
+| `styles/`     | Tailwind & custom CSS                |
+| `utils/`      | Helper functions & constants         |
+
+---
+
+## 📲 Contact The Creator
+
+Have questions, feedback, or just wanna vibe?
+
+📧 **Email**: [anshujaiswal12300@gmail.com](mailto:anshujaiswal12300@gmail.com)  
+📞 **Phone**: [+91 9648527769](tel:+919648527769)
+
+---
+
+## 🛡 License
+
+This project is under the **MIT License** — use it, remix it, make the world better 🌍  
+See the [LICENSE](./LICENSE) file for details.
+
+---
+
+## 💬 Final Words
+
+> “Healing doesn’t mean the damage never existed.  
+> It means the damage no longer controls your life.”  
+> – EmoHealth
+
+Stay strong. Stay mindful.  
+**#EmoHealth – Where Tech Meets Therapy.**
